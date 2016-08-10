@@ -70,6 +70,8 @@ class Agent extends Mobile_Detect {
         'IE'                => array('IEMobile/[VER];', 'IEMobile [VER]', 'MSIE [VER];', 'rv:[VER]'),
         'Edge'              => 'Edge/[VER]',
         'Vivaldi'           => 'Vivaldi/[VER]',
+        'MicroMessenger'    => 'MicroMessenger/[VER]',
+        'MQQBrowser'        => 'MQQBrowser/[VER]'
     );
 
     /**
